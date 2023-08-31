@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mark</h1>
-<h3 align="center">Full stack developer with focus on finance</h3>
+<h3 align="center">Software Engineer in Finance</h3>
 
 - 🔭 I’m currently working on [Atlas Finance](https://atlas-finance.io)
 
