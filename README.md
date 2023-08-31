@@ -1,4 +1,5 @@
-<h3 align="center">Software Engineer in Finance</h3>
+<h2 align="left">Developer | Designer | Game Player</h3>
+
 
 - 🔭 I’m currently working on [Atlas Finance](https://atlas-finance.io)
 
