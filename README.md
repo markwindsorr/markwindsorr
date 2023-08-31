@@ -1,9 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mark</h1>
 <h3 align="center">Software Engineer in Finance</h3>
 
 - 🔭 I’m currently working on [Atlas Finance](https://atlas-finance.io)
-
-- 🌱 I’m currently learning **Langchain**
 
 - 👯 I’m looking to collaborate on [Atlas Trade](https://github.com/atlas-finance-io)
 
