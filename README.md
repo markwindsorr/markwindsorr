@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [Atlas Trade](https://github.com/atlas-finance-io)
 
-- 📝 I regularly write articles on [www.markwindsor.ca](www.markwindsor.ca)
+- 📝 I regularly write articles on [markwindsor.ca](https://markwindsor.ca)
 
 - 📫 How to reach me **markwindsorr@atlas-finance.io**
 
