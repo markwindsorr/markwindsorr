@@ -1,5 +1,8 @@
 <h2 align="left">Developer | Designer | Game Player</h3>
 
+![Atlas Visual](./rough (6).png)
+
+
 
 - 🔭 I’m currently working on [Atlas Finance](https://atlas-finance.io)
 
