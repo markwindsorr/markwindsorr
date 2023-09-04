@@ -1,6 +1,6 @@
 <h2 align="left">Developer | Designer | Game Player</h3>
 
-![Atlas Visual](./rough(6).png)
+![Atlas Visual](./atlasVisual.png)
 
 
 
