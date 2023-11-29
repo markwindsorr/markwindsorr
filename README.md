@@ -4,14 +4,6 @@
 
 
 
-- 🔭 I’m currently working on [Atlas Finance](https://atlas-finance.io)
-
-- 👯 I’m looking to collaborate on [Atlas Trade](https://github.com/atlas-finance-io)
-
-- 📝 I regularly write articles on [markwindsor.ca](https://markwindsor.ca)
-
-- 📫 How to reach me **markwindsorr@atlas-finance.io**
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/atlas_finance/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/markwindsorr/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UC3LXWACD6Ga3-citvazXNOg) 
 
