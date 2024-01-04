@@ -1,5 +1,17 @@
 <h2 align="left">Developer | Designer | Game Player</h3>
 
+<p align="center">
+  <samp>
+    <a href="https://atlas-finance.io">Atlas Research</a> .
+    <a href="https://markwindsor.ca">Writings</a> .    
+    <a href="https://twitter.com/atlas_res">Twitter</a> .
+  </samp>
+</p>
+
+🦐🦐
+
+Currently, building quantitative trading systems, workflows and visualizations with **▲[Atlas Research](https://atlas-finance.io)**. 
+
 ![Atlas Visual](./atlasVisual.png)
 
 
