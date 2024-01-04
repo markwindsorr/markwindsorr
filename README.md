@@ -1,4 +1,4 @@
-<h2 align="left">Developer | Designer | Game Player</h3>
+<h2 align="Center"> Software | Quant | Economics | Design </h3>
 
 <p align="center">
   <samp>
