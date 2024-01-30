@@ -1,4 +1,4 @@
-<h2 align="Center"> Software | Quant | Economics | Design </h3>
+<h2 align="Center"> mapping the system </h3>
 
 <p align="center">
   <samp>
