@@ -1,13 +1,14 @@
 <!-- markwindsorr/README.md -->
 
 <samp>
+
 ## mapping the system
 
 [Atlas Research](https://atlas-finance.io) • [Writings](https://markwindsor.ca)
 
-I am a game player, researcher, and developer.  
-Currently building quantitative trading systems, workflows, and visualizations with 
-**▲[Atlas Research](https://atlas-finance.io)**.
+Game player, researcher, and developer.  
+Currently building AI powered research at
+**▲[Atlas Research](https://atlas-research.io)**.
 
-![Atlas Visual](./atlasVisual.png)
+![banner](./githubBanner.png)
 </samp>
