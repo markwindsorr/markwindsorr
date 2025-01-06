@@ -1,17 +1,13 @@
 <!-- markwindsorr/README.md -->
 
-<h2 align="center"><samp>mapping the system</samp></h2>
+<samp>
+## mapping the system
 
-<p align="center">
-  <samp>
-    <a href="https://atlas-research.io">Atlas Research</a> •
-    <a href="https://markwindsor.ca">Writings</a>
-  </samp>
-</p>
+[Atlas Research](https://atlas-finance.io) • [Writings](https://markwindsor.ca)
 
-<p align="center">
-  <samp>
-    Currently building AI powered research workflows at
-    <strong>▲<a href="https://atlas-research.io" style="color: inherit;">Atlas Research</a></strong>.
-  </samp>
-</p>
+I am a game player, researcher, and developer.  
+Currently building quantitative trading systems, workflows, and visualizations with 
+**▲[Atlas Research](https://atlas-finance.io)**.
+
+![Atlas Visual](./atlasVisual.png)
+</samp>
