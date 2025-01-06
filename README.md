@@ -1,23 +1,17 @@
-<h2 align="Center"> mapping the system </h3>
+<!-- markwindsorr/README.md -->
+
+<h2 align="center"><samp>mapping the system</samp></h2>
 
 <p align="center">
   <samp>
-    <a href="https://atlas-finance.io">Atlas Research</a> .
-    <a href="https://markwindsor.ca">Writings</a> .    
-    <a href="https://twitter.com/atlas_res">Twitter</a> .
+    <a href="https://atlas-research.io">Atlas Research</a> •
+    <a href="https://markwindsor.ca">Writings</a>
   </samp>
 </p>
 
-🦐🦐
-
-Currently, building quantitative trading systems, workflows and visualizations with **▲[Atlas Research](https://atlas-finance.io)**. 
-
-![Atlas Visual](./atlasVisual.png)
-
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/atlas_finance/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/markwindsorr/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UC3LXWACD6Ga3-citvazXNOg) 
-
-
-
+<p align="center">
+  <samp>
+    Currently building AI powered research workflows at
+    <strong>▲<a href="https://atlas-research.io" style="color: inherit;">Atlas Research</a></strong>.
+  </samp>
+</p>
