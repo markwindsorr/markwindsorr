@@ -2,7 +2,7 @@
 
 <samp>
   
-[Atlas Research](https://atlas-finance.io) • [Writings](https://markwindsor.ca)
+[Atlas Research](https://atlas-reseearch.io) 
 
 Game player, researcher, and developer.  
 Currently building AI powered research at
